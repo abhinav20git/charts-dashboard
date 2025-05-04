@@ -1,5 +1,38 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Tech Stack
+
+
+Next.js – React framework for production
+
+Tailwind CSS – Utility-first CSS framework
+
+ShadCN UI – Headless UI components built on top of Radix UI
+
+Recharts – Composable charting library based on React components
+
+TypeScript – Static typing for scalability and developer experience
+
+## Project Structure
+
+/app                → Next.js app directory  
+/components         → Reusable UI components (including charts, sidebar, header)  
+/_components        → Custom-built chart components (AreaChart, BarChart, etc.)  
+/styles             → Global styles and Tailwind setup  
+
+
+## Features
+
+Dashboard with various charts (Bar, Pie, Area, Radar, Radial)
+
+Responsive and mobile-friendly layout
+
+Sidebar navigation
+
+Header with dynamic title and profile dropdown
+
+Simple routing using Next.js pages
+
 ## Getting Started
 
 First, run the development server:
