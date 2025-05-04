@@ -1,7 +1,8 @@
+
+
 This is a Dashboard Application built with Next.js, styled using Tailwind CSS, componentized with ShadCN UI, and powered by Recharts for rich, interactive data visualizations.
 
 ## Tech Stack
-
 
 Next.js – React framework for production
 
@@ -33,6 +34,10 @@ Header with dynamic title and profile dropdown
 
 Simple routing using Next.js pages
 
+
+## Login Credentials
+Email:- admin@example.com
+Password:- password123
 ## Getting Started
 
 First, run the development server:
