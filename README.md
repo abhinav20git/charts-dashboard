@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a Dashboard Application built with Next.js, styled using Tailwind CSS, componentized with ShadCN UI, and powered by Recharts for rich, interactive data visualizations.
 
 ## Tech Stack
 
